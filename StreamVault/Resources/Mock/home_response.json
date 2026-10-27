@@ -1,0 +1,190 @@
+{
+  "heroBanner": {
+    "id": "hero_001",
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "thumbnailURL": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "bannerURL": "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+    "videoURL": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+    "genre": "Sci-Fi / Thriller",
+    "year": 2010,
+    "rating": "PG-13",
+    "duration": "148 min"
+  },
+  "rails": [
+    {
+      "id": "rail_trending",
+      "title": "Trending Now",
+      "items": [
+        {
+          "id": "content_001",
+          "title": "The Dark Knight",
+          "description": "Batman raises the stakes in his war on crime as the Joker wreaks havoc on Gotham City.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg",
+          "videoURL": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "genre": "Action / Crime",
+          "year": 2008,
+          "rating": "PG-13",
+          "duration": "152 min"
+        },
+        {
+          "id": "content_002",
+          "title": "Interstellar",
+          "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+          "videoURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+          "genre": "Sci-Fi / Drama",
+          "year": 2014,
+          "rating": "PG",
+          "duration": "169 min"
+        },
+        {
+          "id": "content_003",
+          "title": "The Matrix",
+          "description": "A computer hacker learns from mysterious rebels about the true nature of his reality.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/ncEsesgOJDNrTUED89hYbA117oe.jpg",
+          "videoURL": "https://vjs.zencdn.net/v/oceans.mp4",
+          "genre": "Sci-Fi / Action",
+          "year": 1999,
+          "rating": "R",
+          "duration": "136 min"
+        },
+        {
+          "id": "content_004",
+          "title": "Parasite",
+          "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/ApiBzeaa95TNYLiHkzBXSCtMBKT.jpg",
+          "videoURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+          "genre": "Thriller / Drama",
+          "year": 2019,
+          "rating": "R",
+          "duration": "132 min"
+        },
+        {
+          "id": "content_005",
+          "title": "Dune",
+          "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+          "videoURL": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "genre": "Sci-Fi / Adventure",
+          "year": 2021,
+          "rating": "PG-13",
+          "duration": "155 min"
+        }
+      ]
+    },
+    {
+      "id": "rail_recommended",
+      "title": "Recommended for You",
+      "items": [
+        {
+          "id": "content_006",
+          "title": "The Godfather",
+          "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsLagi1bDBJdA.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWFbwcNkEBN9PQ1Eg.jpg",
+          "videoURL": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "genre": "Crime / Drama",
+          "year": 1972,
+          "rating": "R",
+          "duration": "175 min"
+        },
+        {
+          "id": "content_007",
+          "title": "Blade Runner 2049",
+          "description": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/ilRyazdMJwN2KZAH2YSGXFEKFzL.jpg",
+          "videoURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+          "genre": "Sci-Fi / Drama",
+          "year": 2017,
+          "rating": "R",
+          "duration": "164 min"
+        },
+        {
+          "id": "content_008",
+          "title": "Arrival",
+          "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/rVh0riX7ebmZQCFECfJJOqAGNHb.jpg",
+          "videoURL": "https://vjs.zencdn.net/v/oceans.mp4",
+          "genre": "Sci-Fi / Drama",
+          "year": 2016,
+          "rating": "PG-13",
+          "duration": "116 min"
+        },
+        {
+          "id": "content_009",
+          "title": "Oppenheimer",
+          "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/rLb2cwF3Pazuxaj0sRXQ037tGI1.jpg",
+          "videoURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+          "genre": "Biography / Drama",
+          "year": 2023,
+          "rating": "R",
+          "duration": "180 min"
+        },
+        {
+          "id": "content_010",
+          "title": "Everything Everywhere",
+          "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save the multiverse.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/u5eEV6pXFjus94FtXV7EHKvFN5f.jpg",
+          "videoURL": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "genre": "Action / Comedy",
+          "year": 2022,
+          "rating": "R",
+          "duration": "139 min"
+        }
+      ]
+    },
+    {
+      "id": "rail_action",
+      "title": "Action & Adventure",
+      "items": [
+        {
+          "id": "content_011",
+          "title": "Mad Max: Fury Road",
+          "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/kqjL17yufvn9OVLyXYpvtyrFfak.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/tbhdm8UJAb4ViCTsulYFL3lxMCd.jpg",
+          "videoURL": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "genre": "Action / Adventure",
+          "year": 2015,
+          "rating": "R",
+          "duration": "120 min"
+        },
+        {
+          "id": "content_012",
+          "title": "John Wick",
+          "description": "An ex-hit-man comes out of retirement to track down the gangsters that killed his dog.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/umC04Cozevu8nn3ZTIU9rNyfUSa.jpg",
+          "videoURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+          "genre": "Action / Crime",
+          "year": 2014,
+          "rating": "R",
+          "duration": "101 min"
+        },
+        {
+          "id": "content_013",
+          "title": "Top Gun: Maverick",
+          "description": "After 30+ years, Maverick is still pushing the envelope as a top naval aviator.",
+          "thumbnailURL": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+          "bannerURL": "https://image.tmdb.org/t/p/original/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+          "videoURL": "https://vjs.zencdn.net/v/oceans.mp4",
+          "genre": "Action / Drama",
+          "year": 2022,
+          "rating": "PG-13",
+          "duration": "130 min"
+        }
+      ]
+    }
+  ]
+}
